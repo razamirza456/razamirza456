@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ***Dart and flutter***
 
-- 🌱 I’m currently learning **Dart** && **Fltter**
+- 🌱 I’m currently learning **Dart** && **Flutter**
 
 - 💬 Ask me about **Dart language**
 
